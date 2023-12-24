@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](./images/winter.gif)]
+
+<img src="./images/winter.gif" >
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/VadymVatsenko)
 [![LinkEdin](https://img.shields.io/badge/-LinkEdin-090909?style=for-the-badge&logo=LinkEdin&logoColor=27A0D9)](https://www.linkedin.com/in/vadym-vatsenko-667498242/)
 
