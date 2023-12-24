@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+[![Header](./images/winter.gif)]
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/VadymVatsenko)
 [![LinkEdin](https://img.shields.io/badge/-LinkEdin-090909?style=for-the-badge&logo=LinkEdin&logoColor=27A0D9)](https://www.linkedin.com/in/vadym-vatsenko-667498242/)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/https%3A%2F%2Fgithub.com%2Fvadimvatsenko/https%3A%2F%2Fgithub.com%2Fvadimvatsenko%2FPacman/https%3A%2F%2Fgithub.com%2Fvadimvatsenko%2FPacman%2Fbranches)
+
 
 
