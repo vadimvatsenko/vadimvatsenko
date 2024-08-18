@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello :wave:, my name is Vadim. I've been playing video games my entire conscious life. When I was 10 years old, I got my first console, a Dendy. After that came the Sega Mega Drive 2, followed by the Sony PlayStation 1, 2, 3, 4, and 5. I also have a small collection of retro consoles. My favorite gaming era is the period of competition between the PS3 and Xbox 360. That was when interesting projects were released without large open worlds or microtransactions, where the gameplay lasted between 5 to 15 hours. To be honest, I'm tired of the big modern projects.
+Hello :wave:, my name is Vadim. I've been playing video games my entire conscious life. 
+When I was 10 years old, I got my first console, a Dendy. After that came the Sega Mega Drive 2, 
+followed by the Sony PlayStation 1, 2, 3, 4, and 5. I also have a small collection of retro consoles. 
+My favorite gaming era is the period of competition between the PS3 and Xbox 360. 
+That was when interesting projects were released without large open worlds or microtransactions, 
+where the gameplay lasted between 5 to 15 hours. To be honest, I'm tired of the big modern projects.
 
-These days, I'm more interested in the indie scene. Indie developers put their heart and soul into their small games. Take FEZ, for example the developers spent five years crafting the game pixel by pixel. It's truly inspiring. That's why I've decided to learn game programming.
+These days, I'm more interested in the indie scene. Indie developers put their heart and soul into their small games. 
+Take FEZ, for example the developers spent five years crafting the game pixel by pixel. It's truly inspiring. 
+That's why I've decided to learn game programming.
 <img src="./images/Chill Mario 2023 ver_, Pixel Jeff.gif" alt="winter gif" with="360" />
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/VadymVatsenko)
