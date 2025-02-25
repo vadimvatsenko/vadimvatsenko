@@ -1,19 +1,6 @@
-### Hi there :wave:
 
-<!--
-**vadimvatsenko/vadimvatsenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
 
 Hello :wave:, my name is Vadim. I've been playing video games my entire conscious life. 
 When I was 10 years old, I got my first console, a Dendy. After that came the Sega Mega Drive 2, 
@@ -25,11 +12,9 @@ where the gameplay lasted between 5 to 15 hours. To be honest, I'm tired of the 
 These days, I'm more interested in the indie scene. Indie developers put their heart and soul into their small games. 
 Take FEZ, for example the developers spent five years crafting the game pixel by pixel. It's truly inspiring. 
 That's why I've decided to learn game programming.
-<img src="./images/Chill Mario 2023 ver_, Pixel Jeff.gif" alt="winter gif" with="360" />
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/VadymVatsenko)
 [![LinkEdin](https://img.shields.io/badge/-LinkEdin-090909?style=for-the-badge&logo=LinkEdin&logoColor=27A0D9)](https://www.linkedin.com/in/vadym-vatsenko-667498242/)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vadimvatsenko&theme=xcode)](https://github.com/vadimvatsenko/github-readme-activity-graph)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vadimvatsenko)](https://github.com/anuraghazra/github-readme-stats)
 
