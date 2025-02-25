@@ -31,4 +31,5 @@ That's why I've decided to learn game programming.
 [![LinkEdin](https://img.shields.io/badge/-LinkEdin-090909?style=for-the-badge&logo=LinkEdin&logoColor=27A0D9)](https://www.linkedin.com/in/vadym-vatsenko-667498242/)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vadimvatsenko&theme=xcode)](https://github.com/vadimvatsenko/github-readme-activity-graph)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vadimvatsenko)](https://github.com/anuraghazra/github-readme-stats)
 
