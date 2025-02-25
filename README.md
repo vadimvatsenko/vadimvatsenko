@@ -32,5 +32,5 @@ That's why I've decided to learn game programming.
 
 ![Snake animation](https://github.com/vadimvatsenko/vadimvatsenko/blob/output/github-contribution-grid-snake.svg)
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vadimvatsenko)](https://github.com/vadimvatsenko/github-readme-activity-graph)
 
