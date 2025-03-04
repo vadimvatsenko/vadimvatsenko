@@ -3,19 +3,23 @@
 # 🎮 VADYM VATSENKO  
 ### **Junior Unity Developer**  
 
----
-
-## 📝 **О себе**  
-Привет! Меня зовут Вадим, и я люблю видеоигры с детства.  
-Вдохновлённый инди-сценой и играми вроде **FEZ**, я решил посвятить себя **гейм-деву**.  
-
-**🔹 Опыт в Unity, C# и гейм-дизайне**  
-**🔹 Создаю собственные проекты и изучаю паттерны проектирования**  
-**🔹 Ищу возможности для работы (удалённо или в офисе)**  
+🌍 **Languages:** [🇬🇧 English](#-english-version) | [🇷🇺 Русский](#-русская-версия)  
 
 ---
 
-## 📞 **Контакты**  
+## 🇬🇧 **English Version**  
+
+### 📝 About Me  
+Hello! My name is Vadym, and I have been passionate about video games since childhood.  
+Inspired by indie games like **FEZ**, I decided to dive into **game development**.  
+
+**🔹 Experience with Unity, C# and game design**  
+**🔹 Developing my own projects and studying design patterns**  
+**🔹 Open to work (remote or office)**  
+
+---
+
+## 📞 Contacts  
 📞 +38 (093) 422-31-31  
 💬 [Telegram](https://t.me/yourtelegram)  
 ✉️ [vadim.vatsenko@gmail.com](mailto:vadim.vatsenko@gmail.com)  
@@ -24,27 +28,19 @@
 
 ---
 
-## 🚀 **Проекты**  
+## 🚀 Projects  
 
-### [Pattern Abstract Fabric](https://github.com/vadimvatsenko/your-repo)  
-🛠 **C#, Unity3D, Patterns, Animation**  
-Небольшая 3D-сцена, реализующая Abstract Factory и State Machine Pattern  
-
-### [Unity A Star Pathfinding Algorithm](https://github.com/vadimvatsenko/your-repo)  
-🛠 **C#, Unity3D, Astar Algo**  
-Демо-сцена алгоритма поиска пути  
-
-### [AirHockey](https://github.com/vadimvatsenko/your-repo)  
-🛠 **C#, Unity2D**  
-Порт известной игры на Android  
-
-### [Super Mario Bros.](https://github.com/vadimvatsenko/your-repo)  
-🛠 **C#, Unity2D, Animation, Coroutine**  
-Порт классической игры, реализован первый уровень  
+### 🎯 [Tanks](https://github.com/vadimvatsenko/C_Charp_Tanks)  
+🛠 **C#, Unity2D, AI, Pathfinding**  
+🔥 Development of a **Battle City-style** 2D game with:  
+✔ **Enemy AI**  
+✔ **Pathfinding algorithm**  
+✔ **Destructible and indestructible objects**  
+✔ **Collision physics**  
 
 ---
 
-## 🛠 **Навыки**  
+## 🛠 Skills  
 
 ### 🎯 Tech Skills  
 - C#  
@@ -55,34 +51,112 @@
 - Patterns  
 
 ### 🤝 Soft Skills  
+- Organizational skills  
+- Hardworking  
+- Autonomous  
+- Courteous  
+- Calm  
+
+### 🗣 Languages  
+🇺🇦 Ukrainian - Native  
+🇷🇺 Russian - Native  
+🇬🇧 English - Beginner  
+
+---
+
+## 💼 Work Experience  
+🛒 **Self-Employed – prodmag.com.ua**  
+🚚 Delivery of products to offices  
+📍 **Kyiv, 2014 – present**  
+
+---
+
+## 🎓 Education  
+🏫 **"Rauf Ablyazov East European University"**  
+📍 **Cherkasy, Ukraine (2003 – 2007)**  
+🎓 **Manager-Economist**  
+
+---
+
+## 📚 Additional Education  
+🏫 **IT School GoIT (Kyiv)**  
+🗓 **May 2022 – March 2023**  
+📜 **Full Stack Developer**  
+
+---
+
+## 🇷🇺 **Русская версия**  
+
+### 📝 О себе  
+Привет! Меня зовут Вадим, и я люблю видеоигры с детства.  
+Вдохновлённый инди-играми вроде **FEZ**, я решил заняться **разработкой игр**.  
+
+**🔹 Опыт в Unity, C# и гейм-дизайне**  
+**🔹 Создаю собственные проекты и изучаю паттерны проектирования**  
+**🔹 Открыт к предложениям о работе (удалённо или в офисе)**  
+
+---
+
+## 📞 Контакты  
+📞 +38 (093) 422-31-31  
+💬 [Telegram](https://t.me/yourtelegram)  
+✉️ [vadim.vatsenko@gmail.com](mailto:vadim.vatsenko@gmail.com)  
+🔗 [GitHub](https://github.com/vadimvatsenko)  
+🌍 Киев, Украина  
+
+---
+
+## 🚀 Проекты  
+
+### 🎯 [Танки](https://github.com/vadimvatsenko/C_Charp_Tanks)  
+🛠 **C#, Unity2D, AI, Pathfinding**  
+🔥 Разработка **2D-игры в стиле Battle City** с:  
+✔ **ИИ врагов**  
+✔ **Алгоритмом поиска пути**  
+✔ **Разрушаемыми и неразрушаемыми объектами**  
+✔ **Физикой столкновений**  
+
+---
+
+## 🛠 Навыки  
+
+### 🎯 Технические навыки  
+- C#  
+- LinQ  
+- SOLID  
+- Unity  
+- Animation  
+- Patterns  
+
+### 🤝 Софт-скиллы  
 - Организованность  
 - Трудолюбие  
 - Самостоятельность  
 - Вежливость  
 - Спокойствие  
 
-### 🗣 **Языки**  
+### 🗣 Языки  
 🇺🇦 Украинский - родной  
 🇷🇺 Русский - родной  
 🇬🇧 Английский - начальный  
 
 ---
 
-## 💼 **Опыт работы**  
+## 💼 Опыт работы  
 🛒 **Самозанятость – prodmag.com.ua**  
 🚚 Доставка товаров в офисы  
 📍 **Киев, 2014 – н.в.**  
 
 ---
 
-## 🎓 **Образование**  
-🏫 **"Rauf Ablyazov East European University"**  
+## 🎓 Образование  
+🏫 **"Восточноевропейский университет им. Рафа Аблязова"**  
 📍 **Черкассы, Украина (2003 – 2007)**  
 🎓 **Менеджер-экономист**  
 
 ---
 
-## 📚 **Доп. обучение**  
+## 📚 Доп. образование  
 🏫 **IT School GoIT (Киев)**  
 🗓 **Май 2022 – Март 2023**  
 📜 **Full Stack Developer**  
