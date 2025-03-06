@@ -1,7 +1,5 @@
-
-
 # 🎮 VADYM VATSENKO  
-<img src="images/Avatar.png" width="200" align="right">
+
 ### **Junior Unity Developer**  
 
 🌍 [Українська](README_UKR.md) | [Русский](README_RUS.md)  
