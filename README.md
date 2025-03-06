@@ -1,4 +1,4 @@
-<img src="https://your-image-url.png" width="200" align="right">
+<img src="images/Avatar.png" width="200" align="right">
 
 # 🎮 VADYM VATSENKO  
 ### **Junior Unity Developer**  
