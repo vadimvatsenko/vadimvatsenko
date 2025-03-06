@@ -1,4 +1,4 @@
-# 🎮 VADYM VATSENKO  
+# 🎮 Вадим Ваценко
 ### **Junior Unity Developer**  
 
 ---
