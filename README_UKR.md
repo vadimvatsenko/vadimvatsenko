@@ -17,10 +17,10 @@
 
 ## 📞 Контакти  
 <p>📞 +38 (093) 422-31-31</p>
-💬 [Telegram](https://t.me/VadymVatsenko)  
-✉️ [vadim.vatsenko@gmail.com](mailto:vadim.vatsenko@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/vadym-vatsenko-667498242/)  
-🌍 Київ, Україна  
+<p>💬 [Telegram](https://t.me/VadymVatsenko) </p>  
+<p>✉️ [vadim.vatsenko@gmail.com](mailto:vadim.vatsenko@gmail.com)   </p> 
+<p>🔗 [LinkedIn](https://www.linkedin.com/in/vadym-vatsenko-667498242/)   </p> 
+<p>🌍 Київ, Україна  
 
 ---
 
