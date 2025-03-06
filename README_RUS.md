@@ -28,8 +28,8 @@
 ## 🚀 Проекты  
 
 ### 🎯 [Танки](https://github.com/vadimvatsenko/C_Charp_Tanks)  
-🛠 **C#, Unity2D, AI, Pathfinding**  
-🔥 Разработка **2D-игры в стиле Battle City** с:  
+🛠 **C#, AI, Pathfinding**  
+🔥 Разработка **2D-игры в стиле Battle City**:  
 ✔ **ИИ врагов**  
 ✔ **Алгоритмом поиска пути**  
 ✔ **Разрушаемыми и неразрушаемыми объектами**  
