@@ -1,3 +1,7 @@
+<img src="https://your-image-url.png" width="200" align="right">
+
+# 🎮 Вадим Ваценко
+### **Junior Unity Developer**  
 ## 🇺🇦 **Українська версія**  
 🌍 [English](README.md) | [Русский](README_RUS.md)  
 ### 📝 Про себе  
