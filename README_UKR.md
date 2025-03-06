@@ -16,7 +16,7 @@
 ---
 
 ## 📞 Контакти  
-📞 +38 (093) 422-31-31
+<p>📞 +38 (093) 422-31-31</p>
 💬 [Telegram](https://t.me/VadymVatsenko)  
 ✉️ [vadim.vatsenko@gmail.com](mailto:vadim.vatsenko@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/vadym-vatsenko-667498242/)  
