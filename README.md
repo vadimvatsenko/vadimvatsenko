@@ -18,7 +18,7 @@ Inspired by indie games like **FEZ**, I decided to dive into **game development*
 
 ## 📞 Contacts  
 📞 +38 (093) 422-31-31  
-💬 [Telegram](https://t.me/yourtelegram)  
+💬 [Telegram](https://t.me/VadymVatsenko)  
 ✉️ [vadim.vatsenko@gmail.com](mailto:vadim.vatsenko@gmail.com)  
 🔗 [GitHub](https://github.com/vadimvatsenko)  
 🌍 Kyiv, Ukraine  
