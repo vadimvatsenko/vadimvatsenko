@@ -8,6 +8,7 @@
 ## 🇬🇧 **English Version**  
 
 ### 📝 About Me  
+<img src="images/Avatar.png" width="200" align="right">
 Hello! My name is Vadym, and I have been passionate about video games since childhood.  
 Inspired by indie games like **FEZ**, I decided to dive into **game development**.  
 
