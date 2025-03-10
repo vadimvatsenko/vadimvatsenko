@@ -82,3 +82,6 @@ Inspired by indie games like **FEZ**, I decided to dive into **game development*
 📜 **Full Stack Developer**  
 
 ---
+
+## Змейка, поедающая коммиты  
+![Snake animation](dist/snake.svg)
