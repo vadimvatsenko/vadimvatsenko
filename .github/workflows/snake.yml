@@ -2,31 +2,26 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Запуск каждый день в полночь UTC
-  workflow_dispatch: # Ручной запуск
+    - cron: "0 0 * * *" # Запуск каждый день в 00:00 UTC
+  workflow_dispatch: # Позволяет запускать вручную
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout репозитория
-        uses: actions/checkout@v3
+      - name: Checkout репозиторий
+        uses: actions/checkout@v4
 
-      - name: Запуск змейки
+      - name: Генерация змейки
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
-      - name: Загрузка артефакта
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: dist/snake.svg
-
-      - name: Деплой в репозиторий
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
+      - name: Commit и Push результата
+        run: |
+          git config --global vadimvatsenko "github-actions"
+          git config --global vadim.vatsenko@gmail.com "github-actions@github.com"
+          git add dist/snake.svg
+          git commit -m "Обновлена змейка [skip ci]" || exit 0
+          git push
