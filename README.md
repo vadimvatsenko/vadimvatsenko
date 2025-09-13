@@ -1,6 +1,6 @@
 # 🎮 VADYM VATSENKO  
 
-### **Junior Unity Developer**  
+### **Junior Unity C# Developer**  
 ---
 🌍 [Українська](README_UKR.md) | [Русский](README_RUS.md)  
 ## 🇬🇧 **English Version**  
