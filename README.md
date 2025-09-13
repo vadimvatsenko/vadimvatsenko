@@ -29,6 +29,13 @@ Inspired by indie games like **FEZ**, I decided to dive into **game development*
 ## 🚀 Projects  
 
 ### 
+### 🎯 [Pirate Adventures](https://github.com/vadimvatsenko/Pirate-Adventure-2D) 
+🛠 **C#, AI, Pathfinding**  
+🔥 Development of a **Battle City-style** 2D game with:  
+✔ **Enemy AI**  
+✔ **Pathfinding algorithm**  
+✔ **Destructible and indestructible objects**  
+✔ **Collision physics**  
 
 ### 🎯 [Tanks](https://github.com/vadimvatsenko/C_Charp_Tanks)  
 🛠 **C#, AI, Pathfinding**  
