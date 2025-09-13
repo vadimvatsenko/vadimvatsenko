@@ -10,7 +10,7 @@
 <img src="images/Avatar.png" width="200" align="right">
 
 Привіт! Я Вадим — Junior Unity C# Developer із фокусом на 2D-платформери та action-ігри.  
-Натхненний інді-іграми на кшталт **FEZ**, створюю невеликі прототипи й доводжу їх до іграбельних vertical slices.
+Натхненний інді-іграми на кшталт **FEZ**, створюю невеликі прототипи й доводжу їх до іграбельного стану.
 
 - **Досвід:** Unity, C# та геймдизайн  
 - **Unity-стек:** Tilemap, 2D Physics, Animator, Cinemachine, New Input System, ScriptableObjects.  
