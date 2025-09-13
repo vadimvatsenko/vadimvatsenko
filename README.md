@@ -32,10 +32,10 @@ Inspired by indie games like **FEZ**, I decided to dive into **game development*
 ### 🎯 [Pirate Adventures](https://github.com/vadimvatsenko/Pirate-Adventure-2D) 
 🛠 **C#, Unity**  
 🔥 Development of a ***2D Platformer like classic game Prince of Persia 1989** 2D game with:  
-✔ **C# scripts**
-✔ **Unity 2D tools (Sprite, Tilemap, Rule Tiles, etc.)**
-✔ **Cinemachine (camera)**
-✔ **Input System (New Input System)**
+- ✔ **C# scripts**
+- ✔ **Unity 2D tools (Sprite, Tilemap, Rule Tiles, etc.)**
+- ✔ **Cinemachine (camera)**
+- ✔ **Input System (New Input System)**
 
 - ⚓️ Tight 2D platformer controls *(run, jump, coyote time, variable jump)*
 - 🗡️ Melee & ranged attack foundation *(WIP)*
