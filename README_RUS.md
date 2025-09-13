@@ -20,8 +20,6 @@
 
 <hr style="height:1px; border:none; background-color:#e5e7eb;" />
 
----
-
 ## 📞 Контакты  
 📞 +38 (093) 422-31-31  
 💬 [Telegram](https://t.me/VadymVatsenko)  
