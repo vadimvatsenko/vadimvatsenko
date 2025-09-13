@@ -44,9 +44,7 @@ Inspired by indie games like **FEZ**, I decided to dive into **game development*
 - 🎥 Cinemachine** (camera)
 - 🔉 Basic SFX/music hooks *(planned)*
 - 💾 Simple save/checkpoint system *(planned)*
-  
-<hr style="height:0.5px; border:none; background-color:#ccc;" />
-
+----------------------------------------------------------------------------------------------
 ### 🎯 [Tanks](https://github.com/vadimvatsenko/C_Charp_Tanks)  
 🛠 **C#, AI, Pathfinding**  
 🔥 Development of a **Battle City-style** 2D game with:  
