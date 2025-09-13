@@ -3,8 +3,8 @@
 ### **Junior Unity C# Developer**  
 <hr style="height:1px; border:none; background-color:#ccc;" />
 
-🌍 [Українська](README_UKR.md) | [Русский](README_RUS.md)  
-## 🇬🇧 **English Version**  
+🌍 [Англійська](README.md) | [Русский](README_RUS.md)  
+## UKR **Ukraine Version**  
 
 ### 📝 Про мене  
 <img src="images/Avatar.png" width="200" align="right">
