@@ -36,7 +36,6 @@ Inspired by indie games like **FEZ**, I decided to dive into **game development*
 - ✔ **Unity 2D tools (Sprite, Tilemap, Rule Tiles, etc.)**
 - ✔ **Cinemachine (camera)**
 - ✔ **Input System (New Input System)**
-
 - ⚓️ Tight 2D platformer controls *(run, jump, coyote time, variable jump)*
 - 🗡️ Melee & ranged attack foundation *(WIP)*
 - 🧠 State‑based logic *(FSM for player/enemies)*
