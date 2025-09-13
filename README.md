@@ -9,10 +9,10 @@
 <img src="images/Avatar.png" width="200" align="right">
 
 Hi! I'm Vadym — a Junior Unity C# Developer focused on 2D platformers and action games.  
-Inspired by indie gems like **FEZ**, I build small prototypes and grow them into playable vertical slices.
+Inspired by indie games like **FEZ**, I build small prototypes and grow them into playable vertical slices.
 
 - **Experience:** Unity, C#, and game design  
-- **Unity stack:** Tilemap, 2D Physics, Animator, **Cinemachine**, **New Input System**, ScriptableObjects, basic GitHub Actions  
+- **Unity stack:** Tilemap, 2D Physics, Animator, Cinemachine, New Input System, ScriptableObjects, basic GitHub Actions  
 - **Code:** OOP, SOLID, LINQ, coroutines; state machines (FSM); patterns (State, Strategy, Observer, Object Pool)  
 - **Now building:** [Pirate Adventures](https://github.com/vadimvatsenko/Pirate-Adventure-2D), [Tanks](https://github.com/vadimvatsenko/C_Charp_Tanks)  
 - **Open to opportunities** (remote or office), ready to learn
