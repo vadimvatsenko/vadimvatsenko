@@ -42,10 +42,9 @@ Inspired by indie games like **FEZ**, I decided to dive into **game development*
 - 🌆 Parallax backgrounds, tileset‑based levels
 - 🎮 Input System** (New Input System)
 - 🎥 Cinemachine** (camera)
-- Unity 2D** tools (Sprite, Tilemap, Rule Tiles, etc.)
 - 🔉 Basic SFX/music hooks *(planned)*
 - 💾 Simple save/checkpoint system *(planned)*
-
+---
 ###
 ### 🎯 [Tanks](https://github.com/vadimvatsenko/C_Charp_Tanks)  
 🛠 **C#, AI, Pathfinding**  
