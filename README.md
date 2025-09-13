@@ -3,7 +3,7 @@
 ### **Junior Unity C# Developer**  
 ---
 🌍 [Українська](README_UKR.md) | [Русский](README_RUS.md)  
-## 🇬🇧 **English Version**  
+## ENG **English Version**  
 
 ### 📝 About Me  
 <img src="images/Avatar.png" width="200" align="right">
@@ -62,7 +62,8 @@ Inspired by indie games like **FEZ**, I build small prototypes and grow them int
 ### 🎯 Tech Skills  
 - C#  
 - LinQ  
-- SOLID  
+- SOLID
+- OOP
 - Unity  
 - Animation  
 - Patterns  
