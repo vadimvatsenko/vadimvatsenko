@@ -44,14 +44,14 @@ Inspired by indie games like **FEZ**, I decided to dive into **game development*
 - 🎥 Cinemachine** (camera)
 - 🔉 Basic SFX/music hooks *(planned)*
 - 💾 Simple save/checkpoint system *(planned)*
----
+***
 ### 🎯 [Tanks](https://github.com/vadimvatsenko/C_Charp_Tanks)  
 🛠 **C#, AI, Pathfinding**  
 🔥 Development of a **Battle City-style** 2D game with:  
-✔ **Enemy AI**  
-✔ **Pathfinding algorithm**  
-✔ **Destructible and indestructible objects**  
-✔ **Collision physics**  
+- ✔ **Enemy AI**  
+- ✔ **Pathfinding algorithm**  
+- ✔ **Destructible and indestructible objects**  
+- ✔ **Collision physics**  
 
 ---
 
