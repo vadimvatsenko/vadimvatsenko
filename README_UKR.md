@@ -33,7 +33,7 @@
 
 ### 1. 🎯 [Pirate Adventures](https://github.com/vadimvatsenko/Pirate-Adventure-2D)  
 🛠 **C#, Unity**  
-🔥 Розробка ***2D-платформера у стилі Prince of Persia (1989)*** з:  
+🔥 Розробка ***2D-платформера у стилі Prince of Persia (1989)***:  
 - ✔ **C#-скриптами**  
 - ✔ **Unity 2D (Sprite, Tilemap, Rule Tiles тощо)**  
 - ✔ **Cinemachine (камера)**  
