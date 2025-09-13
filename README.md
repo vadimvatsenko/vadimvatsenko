@@ -41,17 +41,11 @@ Inspired by indie games like **FEZ**, I decided to dive into **game development*
 - 🗡️ Melee & ranged attack foundation *(WIP)*
 - 🧠 State‑based logic *(FSM for player/enemies)*
 - 🌆 Parallax backgrounds, tileset‑based levels
+- Input System** (New Input System)
+- Cinemachine** (camera)
+- Unity 2D** tools (Sprite, Tilemap, Rule Tiles, etc.)
 - 🔉 Basic SFX/music hooks *(planned)*
 - 💾 Simple save/checkpoint system *(planned)*
-
----
-
-## Tech Stack
-- **Unity** LTS (recommend **2022.3.x** or project version)
-- **C#** scripts
-- **Unity 2D** tools (Sprite, Tilemap, Rule Tiles, etc.)
-- **Cinemachine** (camera)
-- **Input System** (New Input System)
 
 ### 🎯 [Tanks](https://github.com/vadimvatsenko/C_Charp_Tanks)  
 🛠 **C#, AI, Pathfinding**  
