@@ -14,7 +14,7 @@
 
 - **Досвід:** Unity, C# та геймдизайн  
 - **Unity-стек:** Tilemap, 2D Physics, Animator, Cinemachine, New Input System, ScriptableObjects.  
-- **Код:** ООП, SOLID, LINQ, корутини; скінченні автомати (FSM); патерни (State, Strategy, Observer, Object Pool)  
+- **Код:** ООП, SOLID, LINQ, корутини; State Machine (FSM); патерни (State, Strategy, Observer, Object Pool)  
 - **Зараз працюю над:** [Pirate Adventures](https://github.com/vadimvatsenko/Pirate-Adventure-2D), [Tanks](https://github.com/vadimvatsenko/C_Charp_Tanks)  
 - **Відкритий до пропозицій** (віддалено або офіс), готовий навчатися
 
