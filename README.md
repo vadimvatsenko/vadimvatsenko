@@ -15,7 +15,7 @@ Inspired by indie gems like **FEZ**, I build small prototypes and grow them into
 - **Unity stack:** Tilemap, 2D Physics, Animator, **Cinemachine**, **New Input System**, ScriptableObjects, basic GitHub Actions  
 - **Code:** OOP, SOLID, LINQ, coroutines; state machines (FSM); patterns (State, Strategy, Observer, Object Pool)  
 - **Now building:** [Pirate Adventures](https://github.com/vadimvatsenko/Pirate-Adventure-2D), [Tanks](https://github.com/vadimvatsenko/C_Charp_Tanks)  
-- **Open to opportunities** (remote or on-site), ready to learn and ship
+- **Open to opportunities** (remote or on-site), ready to learn
 
 <hr style="height:1px; border:none; background-color:#e5e7eb;" />
 ---
