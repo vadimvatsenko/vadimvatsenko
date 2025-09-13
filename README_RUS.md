@@ -4,7 +4,7 @@
 <hr style="height:1px; border:none; background-color:#ccc;" />
 
 🌍 [Українська](README_UKR.md) | [Русский](README_RUS.md)  
-## 🇬🇧 **English Version**  
+## 🇬🇧 **Russian Version**  
 
 ### 📝 Обо мне  
 <img src="images/Avatar.png" width="200" align="right">
