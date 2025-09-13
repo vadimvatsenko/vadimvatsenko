@@ -18,7 +18,6 @@ Inspired by indie games like **FEZ**, I build small prototypes and grow them int
 - **Open to opportunities** (remote or office), ready to learn
 
 <hr style="height:1px; border:none; background-color:#e5e7eb;" />
----
 
 ## 📞 Contacts  
 📞 +38 (093) 422-31-31  
