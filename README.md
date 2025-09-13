@@ -100,7 +100,7 @@ Inspired by indie games like **FEZ**, I decided to dive into **game development*
 
 ---
 
-### 🐍 Моя GitHub-змейка
+### 🐍 GitHub-Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vadimvatsenko/vadimvatsenko/output/github-snake-dark.svg" />
