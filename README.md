@@ -40,8 +40,8 @@ Inspired by indie games like **FEZ**, I decided to dive into **game development*
 - 🗡️ Melee & ranged attack foundation *(WIP)*
 - 🧠 State‑based logic *(FSM for player/enemies)*
 - 🌆 Parallax backgrounds, tileset‑based levels
-- Input System** (New Input System)
-- Cinemachine** (camera)
+- 🎮 Input System** (New Input System)
+- 🎥 Cinemachine** (camera)
 - Unity 2D** tools (Sprite, Tilemap, Rule Tiles, etc.)
 - 🔉 Basic SFX/music hooks *(planned)*
 - 💾 Simple save/checkpoint system *(planned)*
