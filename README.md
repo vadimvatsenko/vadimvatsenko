@@ -99,3 +99,13 @@ Inspired by indie games like **FEZ**, I decided to dive into **game development*
 📜 **Full Stack Developer**  
 
 ---
+
+### 🐍 Моя GitHub-змейка
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vadimvatsenko/vadimvatsenko/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vadimvatsenko/vadimvatsenko/output/github-snake.svg" />
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/vadimvatsenko/vadimvatsenko/output/github-snake.svg" />
+</picture>
+
+---
