@@ -29,7 +29,7 @@ Inspired by indie games like **FEZ**, I decided to dive into **game development*
 ## 🚀 Projects  
 
 ### 
-### 🎯 [Pirate Adventures](https://github.com/vadimvatsenko/Pirate-Adventure-2D) 
+### 1. 🎯 [Pirate Adventures](https://github.com/vadimvatsenko/Pirate-Adventure-2D) 
 🛠 **C#, Unity**  
 🔥 Development of a ***2D Platformer like classic game Prince of Persia 1989** 2D game with:  
 - ✔ **C# scripts**
@@ -44,8 +44,8 @@ Inspired by indie games like **FEZ**, I decided to dive into **game development*
 - 🎥 Cinemachine** (camera)
 - 🔉 Basic SFX/music hooks *(planned)*
 - 💾 Simple save/checkpoint system *(planned)*
-----------------------------------------------------------------------------------------------
-### 🎯 [Tanks](https://github.com/vadimvatsenko/C_Charp_Tanks)  
+
+### 2. 🎯 [Tanks](https://github.com/vadimvatsenko/C_Charp_Tanks)  
 🛠 **C#, AI, Pathfinding**  
 🔥 Development of a **Battle City-style** 2D game with:  
 - ✔ **Enemy AI**  
