@@ -9,7 +9,7 @@
 <img src="images/Avatar.png" width="200" align="right">
 
 Hi! I'm Vadym — a Junior Unity C# Developer focused on 2D platformers and action games.  
-Inspired by indie games like **FEZ**, I build small prototypes and grow them into playable vertical slices.
+Inspired by indie games like **FEZ**, I build small prototypes and grow them into playable state.
 
 - **Experience:** Unity, C#, and game design  
 - **Unity stack:** Tilemap, 2D Physics, Animator, Cinemachine, New Input System, ScriptableObjects, basic GitHub Actions  
