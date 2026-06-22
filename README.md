@@ -78,7 +78,7 @@ Inspired by indie games like **FEZ**, I build small prototypes and grow them int
 ### 🗣 Languages  
 🇺🇦 Ukrainian - Native  
 🇷🇺 Russian - Native  
-🇬🇧 English - Beginner  
+🇬🇧 English - Pre-Intermediate 
 
 ---
 
