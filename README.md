@@ -1,114 +1,61 @@
-# 🎮 VADYM VATSENKO  
+# Hi there, I'm Vadim Vatsenko! 👋
+### Junior C# / Unity Developer | Physics & Architecture Enthusiast
 
-### **Junior Unity C# Developer**  
----
-🌍 [Українська](README_UKR.md) | [Русский](README_RUS.md)  
-## ENG **English Version**  
+I am a passionate Game Developer focused on writing clean, scalable code, engineering custom physics, and building modular gameplay systems. My experience ranges from developing highly detailed 3D physics frameworks to building proprietary retro engines from scratch in pure C#.
 
-### 📝 About Me  
-<img src="images/Avatar.png" width="200" align="right">
-
-Hi! I'm Vadym — a Junior Unity C# Developer focused on 2D platformers and action games.  
-Inspired by indie games like **FEZ**, I build small prototypes and grow them into playable state.
-
-- **Experience:** Unity, C#, and game design  
-- **Unity stack:** Tilemap, 2D Physics, Animator, Cinemachine, New Input System, ScriptableObjects
-- **Code:** OOP, SOLID, LINQ, coroutines; state machines (FSM); patterns (State, Strategy, Observer, Object Pool)  
-- **Now building:** [Pirate Adventures](https://github.com/vadimvatsenko/Pirate-Adventure-2D), [Tanks](https://github.com/vadimvatsenko/C_Charp_Tanks)  
-- **Open to opportunities** (remote or office), ready to learn
-
-<hr style="height:1px; border:none; background-color:#e5e7eb;" />
-
-## 📞 Contacts  
-📞 +38 (093) 422-31-31  
-💬 [Telegram](https://t.me/VadymVatsenko)  
-✉️ [vadim.vatsenko@gmail.com](mailto:vadim.vatsenko@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/vadym-vatsenko-667498242/)  
-🌍 Kyiv, Ukraine  
+📍 **Location:** Kyiv, Ukraine  
+💼 **Current Roles:** GameDev Instructor at GoITeens & Game Developer at WhiteDeer Studio  
+🌱 **Currently learning:** VR Simulation frameworks and advanced XR development  
 
 ---
 
-## 🚀 Projects  
+## 🛠️ Technical Toolkit
 
-### 
-### 1. 🎯 [Pirate Adventures](https://github.com/vadimvatsenko/Pirate-Adventure-2D) 
-🛠 **C#, Unity**  
-🔥 Development of a ***2D Platformer like classic game Prince of Persia 1989** 2D game with:  
-- ✔ **C# scripts**
-- ✔ **Unity 2D tools (Sprite, Tilemap, Rule Tiles, etc.)**
-- ✔ **Cinemachine (camera)**
-- ✔ **Input System (New Input System)**
-- ⚓️ Tight 2D platformer controls *(run, jump, coyote time, variable jump)*
-- 🗡️ Melee & ranged attack foundation *(WIP)*
-- 🧠 State‑based logic *(FSM for player/enemies)*
-- 🌆 Parallax backgrounds, tileset‑based levels
-- 🎮 Input System** (New Input System)
-- 🎥 Cinemachine** (camera)
-- 🔉 Basic SFX/music hooks *(planned)*
-- 💾 Simple save/checkpoint system *(planned)*
-
-### 2. 🎯 [Tanks](https://github.com/vadimvatsenko/C_Charp_Tanks)  
-🛠 **C#, AI, Pathfinding**  
-🔥 Development of a **Battle City-style** 2D game with:  
-- ✔ **Enemy AI**  
-- ✔ **Pathfinding algorithm**  
-- ✔ **Destructible and indestructible objects**  
-- ✔ **Collision physics**  
+* **Languages & Core:** C#, .NET, OOP, SOLID, LINQ, Algorithms
+* **Unity & GameDev:** Unity 2D/3D, Custom Physics, Cinemachine, New Input System, Animation, Custom Editor Extensions
+* **Architectural Patterns:** Finite State Machine (FSM), Strategy, Observer, Object Pool, Command
+* **Tools & Workflow:** Git, GitHub, Visual Studio, JetBrains Rider
 
 ---
 
-## 🛠 Skills  
+## 🕹️ Featured Projects
 
-### 🎯 Tech Skills  
-- C#  
-- LinQ  
-- SOLID
-- OOP
-- Unity  
-- Animation  
-- Patterns  
+### 🛸 [Arcade and Realistic Helicopter Flight Simulator](https://github.com/vadimvatsenko/Helicopter-Simulator) `In Active Development (30% Ready)`
+An advanced 3D flight simulation framework featuring deep physics programming and a highly modular architecture.
+* **Tech Stack:** C#, Unity 3D, Custom Aerodynamics, Rigidbodies, New Input System, Cinemachine.
+* Engineered custom aerodynamic forces including main rotor lift, cyclic/collective pitch, and tail rotor torque compensation.
+* Built fully decoupled subsystem architectures for camera states, engine parameters, and inputs.
 
-### 🤝 Soft Skills  
-- Organizational skills  
-- Hardworking  
-- Autonomous  
-- Courteous  
-- Calm  
+### 🖥️ [Monochrome Engine](https://github.com/vadimvatsenko/MonochromeEngine) `In Active Development (30% Ready)`
+A proprietary, standalone 2D ASCII game engine built completely from scratch in pure C# to master low-level architecture.
+* **Tech Stack:** Pure C# (.NET), Software Rendering Pipeline, OOP, Custom Geometry.
+* Implemented architectural game loop interfaces (`IRenderer`, `IUpdatable`) avoiding external heavy commercial engines.
+* Engineered a custom collision system featuring bounding elements (`BoxCollider2D`, `CircleCollider2D`) and raycasting (`Ray.cs`).
 
-### 🗣 Languages  
-🇺🇦 Ukrainian - Native  
-🇷🇺 Russian - Native  
-🇬🇧 English - Pre-Intermediate 
+### 🏴‍☠️ [Pirate Adventures & Pixel Adventure](https://github.com/vadimvatsenko/Pixel-Adventure) `In Active Development (50%-70% Ready)`
+Retro-inspired 2D platformer engines built to explore high-feel mechanics and structural level stitching.
+* **Tech Stack:** C#, Unity 2D, Tilemaps, Rule Tiles, Cinemachine, New Input System.
+* Programmed highly responsive character controller physics including core mechanics like variable jump height and *coyote time*.
+* Created modular frameworks for items tracking, combat bases, and multi-layered parallax environments.
 
----
-
-## 💼 Work Experience  
-🛒 **Self-Employed – prodmag.com.ua**  
-🚚 Delivery of products to offices  
-📍 **Kyiv, 2014 – present**  
+### 🪖 [Tanks](https://github.com/vadimvatsenko/Tanks) `100% Completed`
+A pure C# 2D ASCII tactical game demonstrating custom algorithms and structural AI behavior.
+* **Tech Stack:** Pure C#, Custom Physics & Array Mapping.
+* Implemented destructible/indestructible objects, customized collision grids, and procedural **Enemy AI Pathfinding**.
 
 ---
 
-## 🎓 Education  
-🏫 **"Rauf Ablyazov East European University"**  
-📍 **Cherkasy, Ukraine (2003 – 2007)**  
-🎓 **Manager-Economist**  
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vadimvatsenko&show_icons=true&theme=dark&include_all_commits=true" alt="Vadim's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadimvatsenko&layout=compact&theme=dark&langs_count=4" alt="Top Languages" height="150" />
+</p>
 
 ---
 
-## 📚 Additional Education  
-🏫 **IT School GoIT (Kyiv)**  
-🗓 **May 2022 – March 2023**  
-📜 **Full Stack Developer**  
+## 📬 Connect with Me
 
----
-
-### 🐍 GitHub-Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vadimvatsenko/vadimvatsenko/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vadimvatsenko/vadimvatsenko/output/github-snake.svg" />
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/vadimvatsenko/vadimvatsenko/output/github-snake.svg" />
-</picture>
-
----
+* **Email:** [vadim.vatsenko@gmail.com](mailto:vadim.vatsenko@gmail.com)
+* **Telegram:** [@vadimvatsenko](https://t.me/your_telegram_username_here) <!-- Замените в ссылке на ваш реальный логин тг -->
+* **LinkedIn:** [My Profile](https://www.linkedin.com/in/your_linkedin_profile_here) <!-- Замените на вашу ссылку LinkedIn -->
