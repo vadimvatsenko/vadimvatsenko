@@ -44,18 +44,3 @@ A pure C# 2D ASCII tactical game demonstrating custom algorithms and structural 
 * Implemented destructible/indestructible objects, customized collision grids, and procedural **Enemy AI Pathfinding**.
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vadimvatsenko&show_icons=true&theme=dark&include_all_commits=true" alt="Vadim's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadimvatsenko&layout=compact&theme=dark&langs_count=4" alt="Top Languages" height="150" />
-</p>
-
----
-
-## 📬 Connect with Me
-
-* **Email:** [vadim.vatsenko@gmail.com](mailto:vadim.vatsenko@gmail.com)
-* **Telegram:** [@vadimvatsenko](https://t.me/your_telegram_username_here) <!-- Замените в ссылке на ваш реальный логин тг -->
-* **LinkedIn:** [My Profile](https://www.linkedin.com/in/your_linkedin_profile_here) <!-- Замените на вашу ссылку LinkedIn -->
